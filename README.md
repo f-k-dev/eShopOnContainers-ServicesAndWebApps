@@ -1,0 +1,1 @@
+# eShopOnContainers-6.0.0
